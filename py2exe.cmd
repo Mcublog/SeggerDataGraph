@@ -1,0 +1,1 @@
+.\env\Scripts\pyinstaller.exe --noconfirm --onefile --paths .\venv\Lib\site-packages --console -F ".\graph.py"
